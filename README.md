@@ -14,8 +14,15 @@
 - [Video](#video)
 
 ## Code Smells
+- [Code smells for Model-View-Controller architectures](https://link.springer.com/article/10.1007/s10664-017-9540-2)
 
 ## Software Development AntiPatterns
+
+- Swift
+	- [iPerfDetector](https://github.com/saraseif/iPerfDetector) - Replication Package for iPerfDetector: Characterizing and       Detecting Performance Anti-patterns in iOS Applications.
+	- [Swift AST](https://github.com/yanagiba/swift-ast) - The AST produced in this tool is intended to be consumed in various     scenarios. For example, source-to-source transformations like swift-transform and linting tools like swift-lint.
+
+
 
 ## Software Architecture AntiPatterns
 
