@@ -13,9 +13,6 @@
 - [Books](#books)
 - [Video](#video)
 
-## Code Smells
-- [Code smells for Model-View-Controller architectures](https://link.springer.com/article/10.1007/s10664-017-9540-2)
-
 ## Software Development AntiPatterns
 
 - Swift
@@ -30,6 +27,9 @@
 
 ## Journals
 
+- Code Smell
+	- [Code smells for Model-View-Controller architectures](https://link.springer.com/article/10.1007/s10664-017-9540-2)
+	
 ## Books
 
 - [AntiPatterns](https://ff.tu-sofia.bg/~bogi/knigi/SE/Wiley%20-%20AntiPatterns,%20Refactoring%20Software,%20Architectures,%20and%20Projects%20in%20Crisis.pdf) - Refactoring Software, Architectures, and Projects in Crisis.
