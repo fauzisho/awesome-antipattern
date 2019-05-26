@@ -6,30 +6,26 @@
 ## Contents
 
 - [Code Smells](#code-smells)
-- [Programming Language Antipattern](#programming-language-design-patterns)
-- [Mobile](#mobile)
-- [Front End Development](#front-end-development)
+- [Software Development AntiPatterns](#software-development-antipatterns)
+- [Software Architecture AntiPatterns](#software-architecture-patterns)
+- [Software Project Management AntiPatterns](#software-project-management-antipatterns)
 - [Journals](#journals)
 - [Books](#books)
 - [Video](#video)
 
 ## Code Smells
 
-## Programming Language Design Patterns
+## Software Development AntiPatterns
 
-## Mobile
+## Software Architecture AntiPatterns
 
-## Front-End Development
+## Software Project Management AntiPatterns
 
 ## Journals
 
 ## Books
 
-AntiPatterns
-Refactoring Software, Architectures, and Projects in Crisis
-
 - [AntiPatterns](https://ff.tu-sofia.bg/~bogi/knigi/SE/Wiley%20-%20AntiPatterns,%20Refactoring%20Software,%20Architectures,%20and%20Projects%20in%20Crisis.pdf) - Refactoring Software, Architectures, and Projects in Crisis.
-
 
 ## Video
 
