@@ -19,6 +19,9 @@
 	- [iPerfDetector](https://github.com/saraseif/iPerfDetector) - Replication Package for iPerfDetector: Characterizing and       Detecting Performance Anti-patterns in iOS Applications.
 	- [Swift AST](https://github.com/yanagiba/swift-ast) - The AST produced in this tool is intended to be consumed in various     scenarios. For example, source-to-source transformations like swift-transform and linting tools like swift-lint.
 
+- Java
+	- [paprika](https://github.com/GeoffreyHecht/paprika) - Paprika is a powerfull toolkit to detect some code smells in analysed Android applications.
+
 
 
 ## Software Architecture AntiPatterns
