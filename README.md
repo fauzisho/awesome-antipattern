@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Code Smells](#code-smells)
 - [Software Development AntiPatterns](#software-development-antipatterns)
 - [Software Architecture AntiPatterns](#software-architecture-patterns)
 - [Software Project Management AntiPatterns](#software-project-management-antipatterns)
