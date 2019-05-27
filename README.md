@@ -31,7 +31,15 @@
 
 - Code Smell
 	- [Code smells for Model-View-Controller architectures](https://link.springer.com/article/10.1007/s10664-017-9540-2)
-	
+
+- Software Architecture AntiPatterns
+	- [Architecture Anti-patterns: Automatically
+Detectable Violations of Design Principles](https://ieeexplore.ieee.org/abstract/document/8691586)
+
+- Software Project Management AntiPatterns
+	- [Software Engineering Antipatterns in Start-Ups](https://ieeexplore.ieee.org/abstract/document/8356173)
+
+
 ## Books
 
 - [AntiPatterns](https://ff.tu-sofia.bg/~bogi/knigi/SE/Wiley%20-%20AntiPatterns,%20Refactoring%20Software,%20Architectures,%20and%20Projects%20in%20Crisis.pdf) - Refactoring Software, Architectures, and Projects in Crisis.
