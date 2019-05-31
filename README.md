@@ -44,6 +44,10 @@ Detectable Violations of Design Principles](https://ieeexplore.ieee.org/abstract
 
 - [AntiPatterns](https://ff.tu-sofia.bg/~bogi/knigi/SE/Wiley%20-%20AntiPatterns,%20Refactoring%20Software,%20Architectures,%20and%20Projects%20in%20Crisis.pdf) - Refactoring Software, Architectures, and Projects in Crisis.
 
+- [The Art of Computer Programming (TAOCP)](https://www-cs-faculty.stanford.edu/~knuth/taocp.html) - Donald Knuth "Premature optimization is the root of all evil"
+
+
+
 ## Video
 
 ## Contributing
