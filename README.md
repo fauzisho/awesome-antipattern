@@ -1,3 +1,5 @@
+
+
 # Awesome Antipattern [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome open source technology, articles, journals for antipatterns and code smells.
@@ -80,7 +82,7 @@
 - [Software Architecture Antipatterns](https://www.youtube.com/watch?v=YkzNcf2Uk-Q) - Identifying and addressing architecture antipatterns.
 
 ## Contributing
-- Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
+- Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first, then open a pull request or file an issue.
 
 ## License
 
